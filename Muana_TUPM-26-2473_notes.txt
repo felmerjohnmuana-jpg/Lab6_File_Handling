@@ -1,0 +1,5 @@
+Student: Muana
+Student ID: TUPM-26-2473
+Seed: 3
+ID Sum: 24
+Verification Value: 32

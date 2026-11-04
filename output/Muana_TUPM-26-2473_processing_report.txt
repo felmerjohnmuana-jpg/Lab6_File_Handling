@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------------
+Student: Muana
+Student ID: TUPM-26-2473
+Seed: 3
+ID Sum: 24
+Verification Value: 32
+Sample size: 74
+Valid records: 74
+Total Global Active Power: 4.055
+JSON File: Muana_TUPM-26-2473_record.json
+Backup File: Muana_TUPM-26-2473_record.csv
