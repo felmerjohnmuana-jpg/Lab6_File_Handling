@@ -1,0 +1,30 @@
+CYBERSECURITY INCIDENT REPORT
+========================================
+Target year             : 2018
+Total records in dataset: 3000
+Incidents in target year: 310
+Invalid records skipped : 0
+
+Incidents per attack type:
+  DDoS: 60
+  SQL Injection: 57
+  Malware: 56
+  Phishing: 52
+  Ransomware: 49
+  Man-in-the-Middle: 36
+
+Total financial loss   : 14720.48 million USD
+Average financial loss : 47.49 million USD
+
+Five costliest incidents:
+  1. Phishing | France | 99.78 million USD
+  2. SQL Injection | USA | 99.49 million USD
+  3. Ransomware | UK | 99.41 million USD
+  4. Phishing | Brazil | 99.14 million USD
+  5. Malware | India | 99.09 million USD
+
+Output files:
+  output\filtered_incidents.csv (26230 bytes)
+  output\top5_incidents.json (2893 bytes)
+  output\top5_incidents_backup.json (2893 bytes)
+Backup verification: PASSED
